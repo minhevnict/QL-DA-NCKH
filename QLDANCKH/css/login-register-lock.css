@@ -32,11 +32,11 @@ Login register and recover password Page
   background-position: center center;
   height: 100%;
   width: 100%;
-  padding: 10% 0;
+  padding: 5% 0;
   position: fixed; }
 
 .login-box {
-  width: 400px;
+  width: 450px;
   margin: 0 auto; }
   .login-box .footer {
     width: 100%;
