@@ -66,8 +66,6 @@ D:\web\QLDANCKH\QLDANCKH\obj\Debug\QLDANCKH.csproj.CopyComplete
 D:\web\QLDANCKH\QLDANCKH\obj\Debug\QLDANCKH.dll
 D:\web\QLDANCKH\QLDANCKH\obj\Debug\QLDANCKH.pdb
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 D:\web\templatetvct\QL-DA-NCKH\QLDANCKH\bin\QLDANCKH.dll.config
 D:\web\templatetvct\QL-DA-NCKH\QLDANCKH\bin\QLDANCKH.dll
 D:\web\templatetvct\QL-DA-NCKH\QLDANCKH\bin\QLDANCKH.pdb
@@ -135,9 +133,6 @@ D:\web\templatetvct\QL-DA-NCKH\QLDANCKH\obj\Debug\QLDANCKH.csproj.CoreCompileInp
 D:\web\templatetvct\QL-DA-NCKH\QLDANCKH\obj\Debug\QLDANCKH.csproj.CopyComplete
 D:\web\templatetvct\QL-DA-NCKH\QLDANCKH\obj\Debug\QLDANCKH.dll
 D:\web\templatetvct\QL-DA-NCKH\QLDANCKH\obj\Debug\QLDANCKH.pdb
-=======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 E:\QTPCWORKING\2022\NGHIENCUUKHOAHOCQUANGBINH\CODEWEB\QL-DA-NCKH\QLDANCKH\bin\QLDANCKH.dll.config
@@ -207,10 +202,3 @@ E:\QTPCWORKING\2022\NGHIENCUUKHOAHOCQUANGBINH\CODEWEB\QL-DA-NCKH\QLDANCKH\obj\De
 E:\QTPCWORKING\2022\NGHIENCUUKHOAHOCQUANGBINH\CODEWEB\QL-DA-NCKH\QLDANCKH\obj\Debug\QLDANCKH.csproj.CopyComplete
 E:\QTPCWORKING\2022\NGHIENCUUKHOAHOCQUANGBINH\CODEWEB\QL-DA-NCKH\QLDANCKH\obj\Debug\QLDANCKH.dll
 E:\QTPCWORKING\2022\NGHIENCUUKHOAHOCQUANGBINH\CODEWEB\QL-DA-NCKH\QLDANCKH\obj\Debug\QLDANCKH.pdb
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
